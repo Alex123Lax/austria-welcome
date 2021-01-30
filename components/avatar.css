@@ -1,0 +1,13 @@
+.avatar	{
+	width: 150px;
+	height: 150px;
+	border-radius: 50%;
+}
+
+.picture-square {
+	width: 140px;
+}
+
+.picture-rect {
+	width: 340px;
+}

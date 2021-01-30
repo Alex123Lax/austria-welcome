@@ -1,0 +1,21 @@
+.banner {
+	background-image: linear-gradient(0deg, rgba(0,0,0,0.8) 0%, rgba(0,0,0,0.3) 50%), url(../../images/alps2.jpeg);
+	color: white;
+	padding: 150px 130px;
+	font-weight: bold;
+	background-size: cover;
+	background-position: center;
+	text-align: center;
+
+}
+
+.banner h1	{
+	font-size: 50px;
+	font-weight: 500px;
+}
+
+.banner h2	{
+	font-size: 30px;
+	opacity: 0.8;
+	margin-bottom: 50px;
+}
